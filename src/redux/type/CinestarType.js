@@ -1,0 +1,2 @@
+export const GET_CINESTARS = 'GET_CINESTARS';
+export const GET_INFOR_MOVIE = 'GET_INFO_MOVIE';
